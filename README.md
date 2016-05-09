@@ -7,6 +7,7 @@
 Date : 
 18/04/2016
 
+*----*
 General Informations: 
 *------------------------------------------------------------------------------------*
 
@@ -18,15 +19,14 @@ The comlete dependency lists (as well as their licenses) is available in the res
 	programs > datamanager or dashboard > program > lib > licenses.txt
 Many thanks to their respective authors for their work.
 
-
+*----*
 Description:
 *------------------------------------------------------------------------------------*
 
 This tool uses IDSR data from Tonkolili, Sierra Leone compliled with the 'Data Manager' tool, developed as well by the MSF UK, Manson Unit. These medical data are combines geographical and demographical data.
 The tools permits to query and visualise interactively the database by time periode, location and any other available indicator (age...). 
 
-
-
+*----*
 This Dashboard is being released under MIT license:
 *------------------------------------------------------------------------------------*
 
