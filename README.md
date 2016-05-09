@@ -16,7 +16,9 @@ The Dashboard evaluation is planned for the months of May and June 2016. Its dep
 For any question or feedback, thank you for contacting the Manson Unit : gis.mansonunit@london.msf.org. 
 
 The comlete dependency lists (as well as their licenses) is available in the respectives files for each module (Data Manager and Dashboard): 
+
 	programs > datamanager or dashboard > program > lib > licenses.txt
+
 Many thanks to their respective authors for their work.
 
 *----*
