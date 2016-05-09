@@ -27,7 +27,7 @@ This tool uses IDSR data from Tonkolili, Sierra Leone compliled with the 'Data M
 The tools permits to query and visualise interactively the database by time periode, location and any other available indicator (age...). 
 
 *----*
-This Dashboard is being released under MIT license:
+License:
 *------------------------------------------------------------------------------------*
 
    Copyright (c) 2015-2016 Bruno Raimbault for MSF UK
