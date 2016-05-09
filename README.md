@@ -8,7 +8,7 @@ Date :
 18/04/2016
 
 *----*
-General Informations: 
+*General Informations:* 
 *------------------------------------------------------------------------------------*
 
 This Dashboard is being developed as part of MSF UK, Manson Unit activities by Bruno Raimbault : raimbault.bruno@gmail.com. It is currently in 'PILOT' phase, for its 'Surveillance' version Tonkolili district, Sierra Leone.
@@ -22,14 +22,14 @@ The comlete dependency lists (as well as their licenses) is available in the res
 Many thanks to their respective authors for their work.
 
 *----*
-Description:
+*Description:*
 *------------------------------------------------------------------------------------*
 
 This tool uses IDSR data from Tonkolili, Sierra Leone compliled with the 'Data Manager' tool, developed as well by the MSF UK, Manson Unit. These medical data are combines geographical and demographical data.
 The tools permits to query and visualise interactively the database by time periode, location and any other available indicator (age...). 
 
 *----*
-License:
+*License:*
 *------------------------------------------------------------------------------------*
 
    Copyright (c) 2015-2016 Bruno Raimbault for MSF UK
