@@ -11,7 +11,7 @@ Date :
 *General Informations:* 
 *------------------------------------------------------------------------------------*
 
-This Dashboard is being developed as part of MSF UK, Manson Unit activities by Bruno Raimbault : raimbault.bruno@gmail.com. It is currently in 'PILOT' phase, for its 'Surveillance' version Tonkolili district, Sierra Leone.
+This Dashboard is being developed as part of MSF UK, Manson Unit activities, Bruno Raimbault : raimbault.bruno@gmail.com being the principal developer. It is currently in 'PILOT' phase, for its 'Surveillance' version Tonkolili district, Sierra Leone.
 The Dashboard evaluation is planned for the months of May and June 2016. Its deployment in other contextes is not supported by MSF UK at this date.
 For any question or feedback, thank you for contacting the Manson Unit : gis.mansonunit@london.msf.org. 
 
