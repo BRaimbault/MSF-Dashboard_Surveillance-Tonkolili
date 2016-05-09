@@ -1,19 +1,19 @@
 # MSF-Dashboard_Surveillance-Tonkolili
 
-/*------------------------------------------------------------------------------------
+*------------------------------------------------------------------------------------*
 
 	MSF Dashboard - README_eng.txt
 	(c) Bruno Raimbault for MSF UK - 2015-2016
 	Version 1.5 Multilingual
 	
-------------------------------------------------------------------------------------*/
+*------------------------------------------------------------------------------------*
 
 Date : 
 18/04/2016
 
 General Informations: 
 
-/*------------------------------------------------------------------------------------
+*------------------------------------------------------------------------------------*
 
 This Dashboard is being developed as part of MSF UK, Manson Unit activities by Bruno 
 Raimbault : raimbault.bruno@gmail.com. It is currently in 'PILOT' phase, for its
@@ -55,10 +55,11 @@ This Dashboard is being released under MIT license:
 
 
 Description:
-/*------------------------------------------------------------------------------------
 
-This tool uses IDSR data from Tonkolili, Sierra Leone compliled with the'Data Manager'
-tool, developed as well by the MSF UK, Manson Unit. These medical data are combines 
+*------------------------------------------------------------------------------------*
+
+This tool uses IDSR data from Tonkolili, Sierra Leone compliled with the 'Data Manager'
+ tool, developed as well by the MSF UK, Manson Unit. These medical data are combines 
 geographical and demographical data.
 The tools permits to query and visualaise interactively the database by location, time
 periode or any other available indicator. 
